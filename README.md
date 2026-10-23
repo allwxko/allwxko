@@ -1,1 +1,1 @@
-![Баннер] (banner.jpg)
+[Баннер] (banner.jpg)
